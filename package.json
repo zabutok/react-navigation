@@ -39,7 +39,7 @@
     "react-lifecycles-compat": "^3",
     "react-native-safe-area-view": "0.11.0",
     "react-native-screens": "^1.0.0-alpha.11",
-    "react-navigation-deprecated-tab-navigator": "1.3.0",
+    "react-navigation-deprecated-tab-navigator": "git+https://github.com/zabutok/react-navigation-deprecated-tab-navigator",
     "react-navigation-drawer": "0.5.0",
     "react-navigation-stack": "0.7.0",
     "react-navigation-tabs": "0.8.4"
